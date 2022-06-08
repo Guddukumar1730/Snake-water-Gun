@@ -1,0 +1,8 @@
+print("ADVANCED GUDDU CALCULATOR")
+print("enter the name of fruit")
+n1=input()
+print("the price of ", n1 , end=" is 40.5\n")
+print("enter the quantity of fruit in kg ")
+n2=input()
+print("the total cost to pay")
+print(float(n2)*50)
