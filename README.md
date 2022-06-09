@@ -1,2 +1,1 @@
-# snake-gun-water
-This project is a game which takes input from user and select a random option between snake ,water or gun. Snake kills water ,Water kills  gun and Gun kills Snake.
+In this repository all the useful exercises which i have completed with python have been uploadeed.
